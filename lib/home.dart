@@ -58,6 +58,7 @@ class Home extends StatelessWidget {
                   );
                 },
               ),
+              SizedBox(height: 20.0),
               ColorButton(
                 color: Colors.red,
                 text: 'Vermelho',
@@ -73,6 +74,7 @@ class Home extends StatelessWidget {
                   );
                 },
               ),
+              SizedBox(height: 20.0),
               ColorButton(
                 color: Colors.green,
                 text: 'Verde',
