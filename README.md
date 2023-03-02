@@ -1,7 +1,5 @@
 # Teste 02 - Dart
 
-O projeto Pizza Chart consiste em criar uma API que recebe parâmetros em formato JSON e retorna um conjunto de ângulos que podem ser utilizados para gerar um gráfico de pizza.
-
 A aplicação consiste em duas páginas, a Página Inicial e a Página Cor Selecionada, que podem ser acessadas através de botões com cores e seus respectivos nomes. Ao clicar em um botão, o usuário é levado para a Página Cor Selecionada, onde é exibido o nome da cor selecionada, um botão de voltar para a Página Inicial, e uma imagem centralizada com o fundo da cor selecionada.
 
 ## Implementação
